@@ -1,5 +1,9 @@
-### Hi there 👋
+### ¡Hola!👋
+Soy Itzel Quintana, mujer mexicana y desarrolladora web en práctica profesional.
+Mi travesía en STEAM comenzó en un laboratorio químico, en donde perfeccioné mi capacidad para analizar datos, resolver problemas y abordar desafíos complejos. Para mí, cada línea de código que escribo es como un experimento: único, emocionante y listo para un proceso de perfeccionamiento constante.🎇 
 
+Si bien, mi experiencia en ingeniería química me ha enseñado a ser constante y minuciosa, mi corazón siempre ha estado en la creación y la tecnología.
+Estoy segura de que mi enfoque único en conjunto con mis habilidades en desarrollo web pueden aportar un toque especial a la química de cualquier equipo de trabajo.
 <!--
 **ItzelQuintana/ItzelQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
