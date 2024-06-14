@@ -1,4 +1,3 @@
-<script src="https://kit.fontawesome.com/d02c96baf6.js" crossorigin="anonymous"></script>
 <h1 align="center">👋 Hi, I'm Itzel Evelia Quintana Ramírez</h1>
 
 <p align="center">
@@ -30,26 +29,17 @@ Intensive bootcamp with job simulation where I honed skills in designing, develo
 **National Autonomous University of Mexico, Faculty of Chemistry**  
 August 2015 - May 2020
 
-## Projects 🛠️
-
-### [Project 1: Project Name](https://github.com/itzelquintana/project1)
-Brief description of the project and the technologies used.
-
-### [Project 2: Project Name](https://github.com/itzelquintana/project2)
-Brief description of the project and the technologies used.
-
 ## Skills 💻
 
 - HTML <i class="fab fa-html5"></i>
 - CSS <i class="fab fa-css3-alt"></i>
-- JavaScript <i class="fab fa-js"></i>
+- JavaScript <i class="fab fa-js"></i> 
 - Node.js <i class="fab fa-node"></i>
 - Express <i class="fab fa-node-js"></i>
 - C# <i class="fab fa-node-js"></i>
 - MongoDB <i class="fab fa-node-js"></i>
-  
+- SQL
 - Agile methodologies (SCRUM) <i class="fas fa-users"></i>
-
 
 ## Interests 🌟
 
