@@ -1,20 +1,58 @@
-### ¡Hola!👋
-Soy Itzel Quintana, mujer mexicana y desarrolladora web en práctica profesional.
-Mi travesía en STEAM comenzó en un laboratorio químico, en donde perfeccioné mi capacidad para analizar datos, resolver problemas y abordar desafíos complejos. Para mí, cada línea de código que escribo es como un experimento: único, emocionante y listo para un proceso de perfeccionamiento constante.🎇 
+<h1 align="center">👋 Hi, I'm Itzel Evelia Quintana Ramírez</h1>
 
-Si bien, mi experiencia en ingeniería química me ha enseñado a ser constante y minuciosa, mi corazón siempre ha estado en la creación y la tecnología.
-Estoy segura de que mi enfoque único en conjunto con mis habilidades en desarrollo web pueden aportar un toque especial a la química de cualquier equipo de trabajo.
-<!--
-**ItzelQuintana/ItzelQuintana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itzelquintana&color=blueviolet" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">Web Developer | Chemical Engineer | Mexico City 🇲🇽</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me 🚀
+
+I'm a passionate web developer dedicated to creating innovative and efficient solutions. With a background in chemical engineering and recent experience in web development, I specialize in building web applications using agile methodologies like SCRUM.
+
+## Contact 📫
+
+- **Email:** [itzelquira@gmail.com](mailto:itzelquira@gmail.com)
+- **Phone:** +52 5611750485
+- **LinkedIn:** [Itzel Quintana](https://www.linkedin.com/in/itzelquintana)
+- **GitHub:** [Itzel Quintana](https://github.com/itzelquintana)
+
+## Education 📚
+
+### Web Developer
+**Laboratoria**  
+August 2023 - February 2024  
+Intensive bootcamp with job simulation where I honed skills in designing, developing, and implementing solutions using agile SCRUM methodology. This experience enhanced my ability to analyze business requirements, collaborate effectively in multidisciplinary teams, and communicate technical concepts.
+
+### Chemical Engineer
+**National Autonomous University of Mexico, Faculty of Chemistry**  
+August 2015 - May 2020
+
+## Projects 🛠️
+
+### [Project 1: Project Name](https://github.com/itzelquintana/project1)
+Brief description of the project and the technologies used.
+
+### [Project 2: Project Name](https://github.com/itzelquintana/project2)
+Brief description of the project and the technologies used.
+
+## Skills 💻
+
+- HTML <i class="fab fa-html5"></i>
+- CSS <i class="fab fa-css3-alt"></i>
+- JavaScript <i class="fab fa-js"></i>
+- React <i class="fab fa-react"></i>
+- Vue.js <i class="fab fa-vuejs"></i>
+- Node.js <i class="fab fa-node"></i>
+- Express <i class="fab fa-node-js"></i>
+- Agile methodologies (SCRUM) <i class="fas fa-users"></i>
+
+
+## Interests 🌟
+
+- Software development
+- Continuous learning and emerging technologies
+
+---
