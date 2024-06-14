@@ -1,3 +1,4 @@
+<script src="https://kit.fontawesome.com/d02c96baf6.js" crossorigin="anonymous"></script>
 <h1 align="center">👋 Hi, I'm Itzel Evelia Quintana Ramírez</h1>
 
 <p align="center">
@@ -15,9 +16,8 @@ I'm a passionate web developer dedicated to creating innovative and efficient so
 ## Contact 📫
 
 - **Email:** [itzelquira@gmail.com](mailto:itzelquira@gmail.com)
-- **Phone:** +52 5611750485
 - **LinkedIn:** [Itzel Quintana](https://www.linkedin.com/in/itzelquintana)
-- **GitHub:** [Itzel Quintana](https://github.com/itzelquintana)
+
 
 ## Education 📚
 
@@ -43,16 +43,18 @@ Brief description of the project and the technologies used.
 - HTML <i class="fab fa-html5"></i>
 - CSS <i class="fab fa-css3-alt"></i>
 - JavaScript <i class="fab fa-js"></i>
-- React <i class="fab fa-react"></i>
-- Vue.js <i class="fab fa-vuejs"></i>
 - Node.js <i class="fab fa-node"></i>
 - Express <i class="fab fa-node-js"></i>
+- C# <i class="fab fa-node-js"></i>
+- MongoDB <i class="fab fa-node-js"></i>
+  
 - Agile methodologies (SCRUM) <i class="fas fa-users"></i>
 
 
 ## Interests 🌟
 
 - Software development
-- Continuous learning and emerging technologies
+- Continuous learning technologies
+- Project management
 
 ---
